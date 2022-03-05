@@ -5,7 +5,7 @@ using UnityEngine;
 public class Flashlight : MonoBehaviour
 {
     public GameObject lightSource;
-    public bool isOn = false;
+    public bool isOn = true;
     public bool failSafe = false;
 
     // Update is called once per frame
