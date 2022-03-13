@@ -13,24 +13,1590 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-03-05T11:08:01.417+01:00
-  initializedAtString: 2022-03-05T11:08:01.417+01:00
+  lastUpdatedAtString: 2022-03-13T13:15:48.746+01:00
+  initializedAtString: 2022-03-13T12:00:12.569+01:00
   entries:
+  - path: .gitignore
+    fullPath: D:\Unity\Projekty\six\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Unity\Projekty\six\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Animations.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Animations.meta
+    projectPath: Assets\Animations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animations\monster3.controller
+    fullPath: D:\Unity\Projekty\six\Assets\Animations\monster3.controller
+    projectPath: Assets\Animations\monster3.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animations\monster3.controller.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Animations\monster3.controller.meta
+    projectPath: Assets\Animations\monster3.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animations\MonsterMove.anim
+    fullPath: D:\Unity\Projekty\six\Assets\Animations\MonsterMove.anim
+    projectPath: Assets\Animations\MonsterMove.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animations\MonsterMove.anim.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Animations\MonsterMove.anim.meta
+    projectPath: Assets\Animations\MonsterMove.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 1.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 1.mat
+    projectPath: Assets\Materials\Teksturaplytki 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 1.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 1.mat.meta
+    projectPath: Assets\Materials\Teksturaplytki 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 2.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 2.mat
+    projectPath: Assets\Materials\Teksturaplytki 2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 2.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 2.mat.meta
+    projectPath: Assets\Materials\Teksturaplytki 2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 3.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 3.mat
+    projectPath: Assets\Materials\Teksturaplytki 3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 3.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 3.mat.meta
+    projectPath: Assets\Materials\Teksturaplytki 3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 4.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 4.mat
+    projectPath: Assets\Materials\Teksturaplytki 4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki 4.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki 4.mat.meta
+    projectPath: Assets\Materials\Teksturaplytki 4.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki.mat
+    projectPath: Assets\Materials\Teksturaplytki.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturaplytki.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturaplytki.mat.meta
+    projectPath: Assets\Materials\Teksturaplytki.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturkasciany.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturkasciany.mat
+    projectPath: Assets\Materials\Teksturkasciany.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturkasciany.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturkasciany.mat.meta
+    projectPath: Assets\Materials\Teksturkasciany.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturkascianypodejrzana.mat
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturkascianypodejrzana.mat
+    projectPath: Assets\Materials\Teksturkascianypodejrzana.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teksturkascianypodejrzana.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Materials\Teksturkascianypodejrzana.mat.meta
+    projectPath: Assets\Materials\Teksturkascianypodejrzana.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 2.mat
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 2.mat
+    projectPath: Assets\New Material 2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 2.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 2.mat.meta
+    projectPath: Assets\New Material 2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 3.mat
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 3.mat
+    projectPath: Assets\New Material 3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 3.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 3.mat.meta
+    projectPath: Assets\New Material 3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 4.mat
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 4.mat
+    projectPath: Assets\New Material 4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 4.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 4.mat.meta
+    projectPath: Assets\New Material 4.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 5.mat
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 5.mat
+    projectPath: Assets\New Material 5.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 5.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 5.mat.meta
+    projectPath: Assets\New Material 5.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 6.mat
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 6.mat
+    projectPath: Assets\New Material 6.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Material 6.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\New Material 6.mat.meta
+    projectPath: Assets\New Material 6.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\pickupsound.wav
+    fullPath: D:\Unity\Projekty\six\Assets\pickupsound.wav
+    projectPath: Assets\pickupsound.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\pickupsound.wav.meta
+    fullPath: D:\Unity\Projekty\six\Assets\pickupsound.wav.meta
+    projectPath: Assets\pickupsound.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Beggining.unity
+    fullPath: D:\Unity\Projekty\six\Assets\Scenes\Beggining.unity
+    projectPath: Assets\Scenes\Beggining.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Beggining.unity.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scenes\Beggining.unity.meta
+    projectPath: Assets\Scenes\Beggining.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Ending.unity
+    fullPath: D:\Unity\Projekty\six\Assets\Scenes\Ending.unity
+    projectPath: Assets\Scenes\Ending.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Ending.unity.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scenes\Ending.unity.meta
+    projectPath: Assets\Scenes\Ending.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: D:\Unity\Projekty\six\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Another.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\Another.cs
+    projectPath: Assets\Scripts\Another.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Another.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\Another.cs.meta
+    projectPath: Assets\Scripts\Another.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CutOff.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\CutOff.cs
+    projectPath: Assets\Scripts\CutOff.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CutOff.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\CutOff.cs.meta
+    projectPath: Assets\Scripts\CutOff.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\EndingJumpscare.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\EndingJumpscare.cs
+    projectPath: Assets\Scripts\EndingJumpscare.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\EndingJumpscare.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\EndingJumpscare.cs.meta
+    projectPath: Assets\Scripts\EndingJumpscare.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Friend.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\Friend.cs
+    projectPath: Assets\Scripts\Friend.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\JumpToEnding.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\JumpToEnding.cs
+    projectPath: Assets\Scripts\JumpToEnding.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\JumpToEnding.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\JumpToEnding.cs.meta
+    projectPath: Assets\Scripts\JumpToEnding.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MonsterEnding.anim
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\MonsterEnding.anim
+    projectPath: Assets\Scripts\MonsterEnding.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MonsterEnding.anim.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\MonsterEnding.anim.meta
+    projectPath: Assets\Scripts\MonsterEnding.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MonsterEnding.controller
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\MonsterEnding.controller
+    projectPath: Assets\Scripts\MonsterEnding.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MonsterEnding.controller.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\MonsterEnding.controller.meta
+    projectPath: Assets\Scripts\MonsterEnding.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PickingUpBimber.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PickingUpBimber.cs
+    projectPath: Assets\Scripts\PickingUpBimber.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PickingUpBimber.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PickingUpBimber.cs.meta
+    projectPath: Assets\Scripts\PickingUpBimber.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PlayerMovement.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PlayerMovement.cs
+    projectPath: Assets\Scripts\PlayerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\PressingEnter.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PressingEnter.cs
+    projectPath: Assets\Scripts\PressingEnter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PressingEnter.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PressingEnter.cs.meta
+    projectPath: Assets\Scripts\PressingEnter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PressingESC.cs
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PressingESC.cs
+    projectPath: Assets\Scripts\PressingESC.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PressingESC.cs.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Scripts\PressingESC.cs.meta
+    projectPath: Assets\Scripts\PressingESC.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds.meta
+    fullPath: D:\Unity\Projekty\six\Assets\sounds.meta
+    projectPath: Assets\sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\endingjumpscare.wav
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\endingjumpscare.wav
+    projectPath: Assets\sounds\endingjumpscare.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\endingjumpscare.wav.meta
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\endingjumpscare.wav.meta
+    projectPath: Assets\sounds\endingjumpscare.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\mixkit-gasping-zombie-963.wav
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\mixkit-gasping-zombie-963.wav
+    projectPath: Assets\sounds\mixkit-gasping-zombie-963.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\mixkit-gasping-zombie-963.wav.meta
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\mixkit-gasping-zombie-963.wav.meta
+    projectPath: Assets\sounds\mixkit-gasping-zombie-963.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\mixkit-haunted-slow-orchestra-634.wav
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\mixkit-haunted-slow-orchestra-634.wav
+    projectPath: Assets\sounds\mixkit-haunted-slow-orchestra-634.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\sounds\mixkit-haunted-slow-orchestra-634.wav.meta
+    fullPath: D:\Unity\Projekty\six\Assets\sounds\mixkit-haunted-slow-orchestra-634.wav.meta
+    projectPath: Assets\sounds\mixkit-haunted-slow-orchestra-634.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturaplytki.png
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturaplytki.png
+    projectPath: Assets\Teksturaplytki.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturaplytki.png.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturaplytki.png.meta
+    projectPath: Assets\Teksturaplytki.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturkasciany.png
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturkasciany.png
+    projectPath: Assets\Teksturkasciany.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturkasciany.png.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturkasciany.png.meta
+    projectPath: Assets\Teksturkasciany.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturkascianypodejrzana.png
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturkascianypodejrzana.png
+    projectPath: Assets\Teksturkascianypodejrzana.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Teksturkascianypodejrzana.png.meta
+    fullPath: D:\Unity\Projekty\six\Assets\Teksturkascianypodejrzana.png.meta
+    projectPath: Assets\Teksturkascianypodejrzana.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro.meta
+    projectPath: Assets\TextMesh Pro.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Documentation.meta
+    projectPath: Assets\TextMesh Pro\Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Documentation\TextMesh Pro
+      User Guide 2016.pdf
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Documentation\TextMesh Pro
+      User Guide 2016.pdf.meta
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources.meta
+    projectPath: Assets\TextMesh Pro\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\LineBreaking Following
+      Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\LineBreaking Following
+      Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\LineBreaking Leading
+      Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\LineBreaking Leading
+      Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Style Sheets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\TMP Settings.asset
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders.meta
+    projectPath: Assets\TextMesh Pro\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne.json
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne.png
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    fullPath: D:\Unity\Projekty\six\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\Unity\Projekty\six\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorInstance.json
-    fullPath: D:\Unity\Projekty\six\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Library\Artifacts\02\02f3eba1e49a8b445d08b8a6e654cd3b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\02\02f3eba1e49a8b445d08b8a6e654cd3b
+    projectPath: Library\Artifacts\02\02f3eba1e49a8b445d08b8a6e654cd3b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\Artifacts\03\034d0e487e9e740ffab653d4a5c617dc
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\03\034d0e487e9e740ffab653d4a5c617dc
+    projectPath: Library\Artifacts\03\034d0e487e9e740ffab653d4a5c617dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\048120750afe43f72cf4087ff6a58bf8
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\04\048120750afe43f72cf4087ff6a58bf8
+    projectPath: Library\Artifacts\04\048120750afe43f72cf4087ff6a58bf8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\05afb61653eb91428ff5af410a9113b1
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\05\05afb61653eb91428ff5af410a9113b1
+    projectPath: Library\Artifacts\05\05afb61653eb91428ff5af410a9113b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0aea25028c5cd5e5a98191ff66ae9b71
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\0a\0aea25028c5cd5e5a98191ff66ae9b71
+    projectPath: Library\Artifacts\0a\0aea25028c5cd5e5a98191ff66ae9b71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0b10b0834e8d723db5b9ab0d6c6d2af0
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\0b\0b10b0834e8d723db5b9ab0d6c6d2af0
+    projectPath: Library\Artifacts\0b\0b10b0834e8d723db5b9ab0d6c6d2af0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0c\0c76cf6d55648ca5953fceb46f218eb1
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\0c\0c76cf6d55648ca5953fceb46f218eb1
+    projectPath: Library\Artifacts\0c\0c76cf6d55648ca5953fceb46f218eb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e8cb0d62c8cc677457f42d2d137d36a
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\0e\0e8cb0d62c8cc677457f42d2d137d36a
+    projectPath: Library\Artifacts\0e\0e8cb0d62c8cc677457f42d2d137d36a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\1328f366514b11b3ff66b72c9cf7fe4e
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\13\1328f366514b11b3ff66b72c9cf7fe4e
+    projectPath: Library\Artifacts\13\1328f366514b11b3ff66b72c9cf7fe4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\13377a2634f4a449e863df2b92a4b653
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\13\13377a2634f4a449e863df2b92a4b653
+    projectPath: Library\Artifacts\13\13377a2634f4a449e863df2b92a4b653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14f0a6f5e0e8391ca7a9a7369df07de3
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\14\14f0a6f5e0e8391ca7a9a7369df07de3
+    projectPath: Library\Artifacts\14\14f0a6f5e0e8391ca7a9a7369df07de3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\164cc94cddc1ee46d1392f883b241687
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\16\164cc94cddc1ee46d1392f883b241687
+    projectPath: Library\Artifacts\16\164cc94cddc1ee46d1392f883b241687
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\18fcf0f650d8790d1c14cf974c45d8b4
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\18\18fcf0f650d8790d1c14cf974c45d8b4
+    projectPath: Library\Artifacts\18\18fcf0f650d8790d1c14cf974c45d8b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\194d4d8a3f512b6531edcd2f5168146d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\19\194d4d8a3f512b6531edcd2f5168146d
+    projectPath: Library\Artifacts\19\194d4d8a3f512b6531edcd2f5168146d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\1953cfe4544e9afdcb74e9c0caabdfad
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\19\1953cfe4544e9afdcb74e9c0caabdfad
+    projectPath: Library\Artifacts\19\1953cfe4544e9afdcb74e9c0caabdfad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1d\1d9f7ea27471fb35819f6c44885f692d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\1d\1d9f7ea27471fb35819f6c44885f692d
+    projectPath: Library\Artifacts\1d\1d9f7ea27471fb35819f6c44885f692d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1f500f3781d8a35e90de4f5006900106
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\1f\1f500f3781d8a35e90de4f5006900106
+    projectPath: Library\Artifacts\1f\1f500f3781d8a35e90de4f5006900106
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\2681d2413cbeedc2a3662918c25a5973
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\26\2681d2413cbeedc2a3662918c25a5973
+    projectPath: Library\Artifacts\26\2681d2413cbeedc2a3662918c25a5973
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\27ca6a1eac9a9c51f1871506d758e9a0
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\27\27ca6a1eac9a9c51f1871506d758e9a0
+    projectPath: Library\Artifacts\27\27ca6a1eac9a9c51f1871506d758e9a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\27f66b915a7656dac28abf3d22c94c4b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\27\27f66b915a7656dac28abf3d22c94c4b
+    projectPath: Library\Artifacts\27\27f66b915a7656dac28abf3d22c94c4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f18c8c54fda877468fcd9a41d66ffae
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\2f\2f18c8c54fda877468fcd9a41d66ffae
+    projectPath: Library\Artifacts\2f\2f18c8c54fda877468fcd9a41d66ffae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\322bfdeca42ff770544322d516f6168b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\32\322bfdeca42ff770544322d516f6168b
+    projectPath: Library\Artifacts\32\322bfdeca42ff770544322d516f6168b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\345f5b5afdf66e7721c797e8b5b65cce
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\34\345f5b5afdf66e7721c797e8b5b65cce
+    projectPath: Library\Artifacts\34\345f5b5afdf66e7721c797e8b5b65cce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    projectPath: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39ab2540a38e083de8b4ab89be7c178a
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\39\39ab2540a38e083de8b4ab89be7c178a
+    projectPath: Library\Artifacts\39\39ab2540a38e083de8b4ab89be7c178a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3c913517c470d0f6eb9d077a81150387
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\3c\3c913517c470d0f6eb9d077a81150387
+    projectPath: Library\Artifacts\3c\3c913517c470d0f6eb9d077a81150387
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d5653f951ffd8716a8142a113ce8c47
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\3d\3d5653f951ffd8716a8142a113ce8c47
+    projectPath: Library\Artifacts\3d\3d5653f951ffd8716a8142a113ce8c47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3dcdc309c7510d4880c0045133580fb7
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\3d\3dcdc309c7510d4880c0045133580fb7
+    projectPath: Library\Artifacts\3d\3dcdc309c7510d4880c0045133580fb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3e\3e37db7a1c17ada162e8275239d514b4
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\3e\3e37db7a1c17ada162e8275239d514b4
+    projectPath: Library\Artifacts\3e\3e37db7a1c17ada162e8275239d514b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\46669061f6be27045ce676a6f11c756e
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\46\46669061f6be27045ce676a6f11c756e
+    projectPath: Library\Artifacts\46\46669061f6be27045ce676a6f11c756e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\4916ef688e9f50a59272ce08ad379da7
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\49\4916ef688e9f50a59272ce08ad379da7
+    projectPath: Library\Artifacts\49\4916ef688e9f50a59272ce08ad379da7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49661ad4f1adeddeab0598b54e99a389
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\49\49661ad4f1adeddeab0598b54e99a389
+    projectPath: Library\Artifacts\49\49661ad4f1adeddeab0598b54e99a389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e5e9ad0379a04b2310feedb88bbdab6
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\4e\4e5e9ad0379a04b2310feedb88bbdab6
+    projectPath: Library\Artifacts\4e\4e5e9ad0379a04b2310feedb88bbdab6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\5393782d98576dfff0366fe6214ef17a
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\53\5393782d98576dfff0366fe6214ef17a
+    projectPath: Library\Artifacts\53\5393782d98576dfff0366fe6214ef17a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54b3e689c19a7c83fec4bebd4e5e99b7
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\54\54b3e689c19a7c83fec4bebd4e5e99b7
+    projectPath: Library\Artifacts\54\54b3e689c19a7c83fec4bebd4e5e99b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54efa3191b2a2b8a328a030063cbaec5
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\54\54efa3191b2a2b8a328a030063cbaec5
+    projectPath: Library\Artifacts\54\54efa3191b2a2b8a328a030063cbaec5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\595edaf40ee288992aa6d7b9916160b0
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\59\595edaf40ee288992aa6d7b9916160b0
+    projectPath: Library\Artifacts\59\595edaf40ee288992aa6d7b9916160b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\605d05dac64b37908e2cb2fc98754141
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\60\605d05dac64b37908e2cb2fc98754141
+    projectPath: Library\Artifacts\60\605d05dac64b37908e2cb2fc98754141
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\60db2ac6fac457ad3890a82a17508959
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\60\60db2ac6fac457ad3890a82a17508959
+    projectPath: Library\Artifacts\60\60db2ac6fac457ad3890a82a17508959
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\611130c71471bb15e576b7b0047c9ab5
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\61\611130c71471bb15e576b7b0047c9ab5
+    projectPath: Library\Artifacts\61\611130c71471bb15e576b7b0047c9ab5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\62\62ed320594d1dd86e5545304942c7a7b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\62\62ed320594d1dd86e5545304942c7a7b
+    projectPath: Library\Artifacts\62\62ed320594d1dd86e5545304942c7a7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\6589acd9ae76e85ec23c8f1d6eccd9d7
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\65\6589acd9ae76e85ec23c8f1d6eccd9d7
+    projectPath: Library\Artifacts\65\6589acd9ae76e85ec23c8f1d6eccd9d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\661ee50acc315453668b7b23c9df3b7f
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\66\661ee50acc315453668b7b23c9df3b7f
+    projectPath: Library\Artifacts\66\661ee50acc315453668b7b23c9df3b7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\6703356d4154bc6a30768b1090b77605
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\67\6703356d4154bc6a30768b1090b77605
+    projectPath: Library\Artifacts\67\6703356d4154bc6a30768b1090b77605
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6cda245e5d0f0b753c26cf31cd8f833f
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\6c\6cda245e5d0f0b753c26cf31cd8f833f
+    projectPath: Library\Artifacts\6c\6cda245e5d0f0b753c26cf31cd8f833f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7c09965f5e042d243c10bbd0311e9054
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\7c\7c09965f5e042d243c10bbd0311e9054
+    projectPath: Library\Artifacts\7c\7c09965f5e042d243c10bbd0311e9054
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d2eb9bf1ee7d3fca1584b94c7e62165
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\7d\7d2eb9bf1ee7d3fca1584b94c7e62165
+    projectPath: Library\Artifacts\7d\7d2eb9bf1ee7d3fca1584b94c7e62165
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\817fa826cd3a7bea3c45753a0c310470
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\81\817fa826cd3a7bea3c45753a0c310470
+    projectPath: Library\Artifacts\81\817fa826cd3a7bea3c45753a0c310470
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\81a339bff3c5375b3af0943f6a303227
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\81\81a339bff3c5375b3af0943f6a303227
+    projectPath: Library\Artifacts\81\81a339bff3c5375b3af0943f6a303227
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\8296a8c150ee39fee2286cce0c8819c8
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\82\8296a8c150ee39fee2286cce0c8819c8
+    projectPath: Library\Artifacts\82\8296a8c150ee39fee2286cce0c8819c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\82fa9d9f8f8e28b668a23b2215c6f4f8
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\82\82fa9d9f8f8e28b668a23b2215c6f4f8
+    projectPath: Library\Artifacts\82\82fa9d9f8f8e28b668a23b2215c6f4f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\84ccce9a05d946b1b5dcaff7879422e9
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\84\84ccce9a05d946b1b5dcaff7879422e9
+    projectPath: Library\Artifacts\84\84ccce9a05d946b1b5dcaff7879422e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8b93c66bf6f3173a5cb9e5d25ad4c675
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\8b\8b93c66bf6f3173a5cb9e5d25ad4c675
+    projectPath: Library\Artifacts\8b\8b93c66bf6f3173a5cb9e5d25ad4c675
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c9a8c6a0b0cfd03bf5d8f77d2747929
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\8c\8c9a8c6a0b0cfd03bf5d8f77d2747929
+    projectPath: Library\Artifacts\8c\8c9a8c6a0b0cfd03bf5d8f77d2747929
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d9efb711340b4ca883aa83d7fb15d21
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\8d\8d9efb711340b4ca883aa83d7fb15d21
+    projectPath: Library\Artifacts\8d\8d9efb711340b4ca883aa83d7fb15d21
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92aedd5d78cb715a4a18238a701869fe
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\92\92aedd5d78cb715a4a18238a701869fe
+    projectPath: Library\Artifacts\92\92aedd5d78cb715a4a18238a701869fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a466ba3edc4fd331ee35b43505f9a5d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\9a\9a466ba3edc4fd331ee35b43505f9a5d
+    projectPath: Library\Artifacts\9a\9a466ba3edc4fd331ee35b43505f9a5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c37625b7dbfae96fa11b6473b53afd4
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\9c\9c37625b7dbfae96fa11b6473b53afd4
+    projectPath: Library\Artifacts\9c\9c37625b7dbfae96fa11b6473b53afd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a2\a21dbe642424948d094e7eefcda57579
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\a2\a21dbe642424948d094e7eefcda57579
+    projectPath: Library\Artifacts\a2\a21dbe642424948d094e7eefcda57579
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a459f2bf15c85d1158d7333acb0350b3
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\a4\a459f2bf15c85d1158d7333acb0350b3
+    projectPath: Library\Artifacts\a4\a459f2bf15c85d1158d7333acb0350b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ac\acf5b23319f7e1e899642ebe32d4cd84
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ac\acf5b23319f7e1e899642ebe32d4cd84
+    projectPath: Library\Artifacts\ac\acf5b23319f7e1e899642ebe32d4cd84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2863364447197d243439f587a9393f6
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b2\b2863364447197d243439f587a9393f6
+    projectPath: Library\Artifacts\b2\b2863364447197d243439f587a9393f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2edada43f838ee3f43e8f2ad98d52a3
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b2\b2edada43f838ee3f43e8f2ad98d52a3
+    projectPath: Library\Artifacts\b2\b2edada43f838ee3f43e8f2ad98d52a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b3d9ef31fac12879ba602f33d4744f1e
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b3\b3d9ef31fac12879ba602f33d4744f1e
+    projectPath: Library\Artifacts\b3\b3d9ef31fac12879ba602f33d4744f1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b4\b4b553297d13626205afb27b632c8b83
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b4\b4b553297d13626205afb27b632c8b83
+    projectPath: Library\Artifacts\b4\b4b553297d13626205afb27b632c8b83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b6\b607f05725caa95daef7c3ae73e9888b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b6\b607f05725caa95daef7c3ae73e9888b
+    projectPath: Library\Artifacts\b6\b607f05725caa95daef7c3ae73e9888b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b8\b8588a6fcec2d7362691cc60fcea285f
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\b8\b8588a6fcec2d7362691cc60fcea285f
+    projectPath: Library\Artifacts\b8\b8588a6fcec2d7362691cc60fcea285f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bb\bb571195d4c0f159da6a8022d2389eaa
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\bb\bb571195d4c0f159da6a8022d2389eaa
+    projectPath: Library\Artifacts\bb\bb571195d4c0f159da6a8022d2389eaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bc5198c41c234a6f571dec4d7021fbd9
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\bc\bc5198c41c234a6f571dec4d7021fbd9
+    projectPath: Library\Artifacts\bc\bc5198c41c234a6f571dec4d7021fbd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6c25d3a28c88fef3f08b4ba6207505d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\c6\c6c25d3a28c88fef3f08b4ba6207505d
+    projectPath: Library\Artifacts\c6\c6c25d3a28c88fef3f08b4ba6207505d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c824480d6e3a194e04e0e10ae250fc63
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\c8\c824480d6e3a194e04e0e10ae250fc63
+    projectPath: Library\Artifacts\c8\c824480d6e3a194e04e0e10ae250fc63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8a81a49921fa24d9fcc6b134d449e56
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\c8\c8a81a49921fa24d9fcc6b134d449e56
+    projectPath: Library\Artifacts\c8\c8a81a49921fa24d9fcc6b134d449e56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9ca284bdba64ea191da94dd843fb5b6
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\c9\c9ca284bdba64ea191da94dd843fb5b6
+    projectPath: Library\Artifacts\c9\c9ca284bdba64ea191da94dd843fb5b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca34e194723f6bed284489250bee195a
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ca\ca34e194723f6bed284489250bee195a
+    projectPath: Library\Artifacts\ca\ca34e194723f6bed284489250bee195a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb81d3592ef1c73e5de1740f50d8c159
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\cb\cb81d3592ef1c73e5de1740f50d8c159
+    projectPath: Library\Artifacts\cb\cb81d3592ef1c73e5de1740f50d8c159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd36b546088a3c50ba226eac75c50c72
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\cd\cd36b546088a3c50ba226eac75c50c72
+    projectPath: Library\Artifacts\cd\cd36b546088a3c50ba226eac75c50c72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d17e3b78d572dfa68f0fb729f5a2d4d9
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\d1\d17e3b78d572dfa68f0fb729f5a2d4d9
+    projectPath: Library\Artifacts\d1\d17e3b78d572dfa68f0fb729f5a2d4d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d471b8c3533fa59aec596f7d17a274c3
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\d4\d471b8c3533fa59aec596f7d17a274c3
+    projectPath: Library\Artifacts\d4\d471b8c3533fa59aec596f7d17a274c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d52611ec755c4867ad938687948d0472
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\d5\d52611ec755c4867ad938687948d0472
+    projectPath: Library\Artifacts\d5\d52611ec755c4867ad938687948d0472
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d70f2c43da62b9de5659e96b5a8b1da8
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\d7\d70f2c43da62b9de5659e96b5a8b1da8
+    projectPath: Library\Artifacts\d7\d70f2c43da62b9de5659e96b5a8b1da8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\df\df9b8c074f344bdc9c582950268b6a6c
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\df\df9b8c074f344bdc9c582950268b6a6c
+    projectPath: Library\Artifacts\df\df9b8c074f344bdc9c582950268b6a6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e29a97511114f4ff95df58192234f762
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\e2\e29a97511114f4ff95df58192234f762
+    projectPath: Library\Artifacts\e2\e29a97511114f4ff95df58192234f762
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e49d1af195ea4d4632f0b1dcc8a7af76
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\e4\e49d1af195ea4d4632f0b1dcc8a7af76
+    projectPath: Library\Artifacts\e4\e49d1af195ea4d4632f0b1dcc8a7af76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e5fc4213943604ead81afffa89111ccf
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\e5\e5fc4213943604ead81afffa89111ccf
+    projectPath: Library\Artifacts\e5\e5fc4213943604ead81afffa89111ccf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e6351db0b939b6c95e6ead7e04cf8dd5
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\e6\e6351db0b939b6c95e6ead7e04cf8dd5
+    projectPath: Library\Artifacts\e6\e6351db0b939b6c95e6ead7e04cf8dd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e952202d918414cf08ddfff647577374
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\e9\e952202d918414cf08ddfff647577374
+    projectPath: Library\Artifacts\e9\e952202d918414cf08ddfff647577374
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea0daab1bee8d68834929715d2451739
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ea\ea0daab1bee8d68834929715d2451739
+    projectPath: Library\Artifacts\ea\ea0daab1bee8d68834929715d2451739
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee533e6a6ef470846758429290e67062
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ee\ee533e6a6ef470846758429290e67062
+    projectPath: Library\Artifacts\ee\ee533e6a6ef470846758429290e67062
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef162e2521f97e0112cb432ca250938d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ef\ef162e2521f97e0112cb432ca250938d
+    projectPath: Library\Artifacts\ef\ef162e2521f97e0112cb432ca250938d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef1ad30a0f316519291c0e77172b570c
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ef\ef1ad30a0f316519291c0e77172b570c
+    projectPath: Library\Artifacts\ef\ef1ad30a0f316519291c0e77172b570c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef8674fdc36fefddb613a7e2fbe903c9
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ef\ef8674fdc36fefddb613a7e2fbe903c9
+    projectPath: Library\Artifacts\ef\ef8674fdc36fefddb613a7e2fbe903c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\efa6d547af7ad00fd94b6a8aba9106d9
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\ef\efa6d547af7ad00fd94b6a8aba9106d9
+    projectPath: Library\Artifacts\ef\efa6d547af7ad00fd94b6a8aba9106d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f35fd99c6b05fada16d4d13e26f1600f
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\f3\f35fd99c6b05fada16d4d13e26f1600f
+    projectPath: Library\Artifacts\f3\f35fd99c6b05fada16d4d13e26f1600f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f430376f468fa40f5765ecffba225dab
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\f4\f430376f468fa40f5765ecffba225dab
+    projectPath: Library\Artifacts\f4\f430376f468fa40f5765ecffba225dab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f65deb8aa294ca1fac571aaa9b8bc60b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\f6\f65deb8aa294ca1fac571aaa9b8bc60b
+    projectPath: Library\Artifacts\f6\f65deb8aa294ca1fac571aaa9b8bc60b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\faa7c4f06d17db44944ed5e340cbf81d
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\fa\faa7c4f06d17db44944ed5e340cbf81d
+    projectPath: Library\Artifacts\fa\faa7c4f06d17db44944ed5e340cbf81d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb2da33960aa399370b6a6acad63b78b
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\fb\fb2da33960aa399370b6a6acad63b78b
+    projectPath: Library\Artifacts\fb\fb2da33960aa399370b6a6acad63b78b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fcea9b15b0b511f9eba18f1c54142a58
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\fc\fcea9b15b0b511f9eba18f1c54142a58
+    projectPath: Library\Artifacts\fc\fcea9b15b0b511f9eba18f1c54142a58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe5a9cfe171ecad42acc658a7eda9161
+    fullPath: D:\Unity\Projekty\six\Library\Artifacts\fe\fe5a9cfe171ecad42acc658a7eda9161
+    projectPath: Library\Artifacts\fe\fe5a9cfe171ecad42acc658a7eda9161
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\Unity\Projekty\six\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Unity\Projekty\six\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: D:\Unity\Projekty\six\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\Projekty\six\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\Unity\Projekty\six\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: D:\Unity\Projekty\six\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: D:\Unity\Projekty\six\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: D:\Unity\Projekty\six\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Unity\Projekty\six\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,9 +1606,129 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityLockfile
-    fullPath: D:\Unity\Projekty\six\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Library\StateCache\Hierarchy\a449fc-mainStage.json
+    fullPath: D:\Unity\Projekty\six\Library\StateCache\Hierarchy\a449fc-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\a449fc-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\a2b6bb-mainStage.json
+    fullPath: D:\Unity\Projekty\six\Library\StateCache\SceneView\a2b6bb-mainStage.json
+    projectPath: Library\StateCache\SceneView\a2b6bb-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\a69208-mainStage.json
+    fullPath: D:\Unity\Projekty\six\Library\StateCache\SceneView\a69208-mainStage.json
+    projectPath: Library\StateCache\SceneView\a69208-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\Unity\Projekty\six\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Unity\Projekty\six\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0ce63987a49f7fa4c86c314fd2f9599d
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-0ce63987a49f7fa4c86c314fd2f9599d
+    projectPath: Temp\UnityTempFile-0ce63987a49f7fa4c86c314fd2f9599d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1240cac127a27b2498fe14564884fc5f
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-1240cac127a27b2498fe14564884fc5f
+    projectPath: Temp\UnityTempFile-1240cac127a27b2498fe14564884fc5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1703735cb11650345aa654f163334def
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-1703735cb11650345aa654f163334def
+    projectPath: Temp\UnityTempFile-1703735cb11650345aa654f163334def
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2e0f783f93cf4a543b35a9d00e78e0d1
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-2e0f783f93cf4a543b35a9d00e78e0d1
+    projectPath: Temp\UnityTempFile-2e0f783f93cf4a543b35a9d00e78e0d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-50e2f36e044cae347bc1a49b23821751
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-50e2f36e044cae347bc1a49b23821751
+    projectPath: Temp\UnityTempFile-50e2f36e044cae347bc1a49b23821751
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5badb5abe7ba5d547b95ed066db6eda5
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-5badb5abe7ba5d547b95ed066db6eda5
+    projectPath: Temp\UnityTempFile-5badb5abe7ba5d547b95ed066db6eda5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5de2124745d650c448a0b7e245a3825b
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-5de2124745d650c448a0b7e245a3825b
+    projectPath: Temp\UnityTempFile-5de2124745d650c448a0b7e245a3825b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7bc886544b68bcb43874f9b1da42cfe3
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-7bc886544b68bcb43874f9b1da42cfe3
+    projectPath: Temp\UnityTempFile-7bc886544b68bcb43874f9b1da42cfe3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8c603b67603d3ad478d6b0dbc7a21e79
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-8c603b67603d3ad478d6b0dbc7a21e79
+    projectPath: Temp\UnityTempFile-8c603b67603d3ad478d6b0dbc7a21e79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8d0cd5596b234a544a61c803917cd124
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-8d0cd5596b234a544a61c803917cd124
+    projectPath: Temp\UnityTempFile-8d0cd5596b234a544a61c803917cd124
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d750c8c06b254e47910474bf9265325
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-9d750c8c06b254e47910474bf9265325
+    projectPath: Temp\UnityTempFile-9d750c8c06b254e47910474bf9265325
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a4062adf0f5cf744fa2c9d32478be846
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-a4062adf0f5cf744fa2c9d32478be846
+    projectPath: Temp\UnityTempFile-a4062adf0f5cf744fa2c9d32478be846
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a8e9905b6768ed043a347a7da7456a50
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-a8e9905b6768ed043a347a7da7456a50
+    projectPath: Temp\UnityTempFile-a8e9905b6768ed043a347a7da7456a50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d7304197f0d1b17449b9aea07f5a0822
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-d7304197f0d1b17449b9aea07f5a0822
+    projectPath: Temp\UnityTempFile-d7304197f0d1b17449b9aea07f5a0822
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-df10ef85539b4644dbca926fd359ce79
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-df10ef85539b4644dbca926fd359ce79
+    projectPath: Temp\UnityTempFile-df10ef85539b4644dbca926fd359ce79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff5db56356affdb468af37db277d544a
+    fullPath: D:\Unity\Projekty\six\Temp\UnityTempFile-ff5db56356affdb468af37db277d544a
+    projectPath: Temp\UnityTempFile-ff5db56356affdb468af37db277d544a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

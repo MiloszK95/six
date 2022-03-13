@@ -5,7 +5,8 @@ public class Friend : MonoBehaviour
    public Flashlight latarenka;
    public GameObject lightSource;
 
-   
+   public GameObject spooky;
+   public GameObject grandma;
 
 
     
@@ -13,14 +14,17 @@ public class Friend : MonoBehaviour
     {
        if(latarenka.isOn == false)
        {
-          Debug.Log("Pepe");
+          Debug.Log("Boo!");
+          
        }
        else
        {
-           Debug.Log("Pan dziobak");
+           Debug.Log("Boooooo!");
            lightSource.SetActive(false);
+           
        }
-       
+       spooky.SetActive(true);
+       grandma.SetActive(false);
 
    
        
